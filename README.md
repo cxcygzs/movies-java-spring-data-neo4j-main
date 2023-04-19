@@ -5,6 +5,7 @@
 
 用户可以通过环境变量配置Neo4j数据库的连接信息。默认情况下，数据库连接使用的是Neo4j Sandbox或Neo4j Aura提供的演示数据库。该应用程序的Web框架使用了Spring-Boot启用的Spring-WebMVC，提供了一个方便的RESTful API来查询电影知识图谱数据。
 #### 运行环境配置
+详细链接：https://a2eb1ewtyj.feishu.cn/docx/EwvadG4B0oCfa8xp81ncAgj6nSe
 视频教程：
 https://meeting.tencent.com/v2/cloud-record/share?id=b87e9f69-c8da-4642-9ea9-c5f40374daea&from=3
 
