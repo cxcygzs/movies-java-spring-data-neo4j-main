@@ -17,6 +17,7 @@ https://blog.csdn.net/Y16692862627/article/details/129727157
 
 idea的配置
 https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/boxcn8ER8Z1aY3xLc8Ca0STIq6g/?fallback_source=1&height=1280&mount_node_token=RAYQdQ6AKoOYmuxARa1cbDgknuc&mount_point=docx_image&policy=equal&width=1280
+
 然后将idea的jdk版本切换
 https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/boxcnkkwuKNkeR0iY1KT1dsIfCb/?fallback_source=1&height=1280&mount_node_token=F8KedsSeuoiWeixMhHzcvHg0nsb&mount_point=docx_image&policy=equal&width=1280
 
@@ -26,14 +27,23 @@ blob:https://a2eb1ewtyj.feishu.cn/92340a07-38b1-436f-a6cc-3328017697c8
 运行代码
 下再次仓库代码按如图所示运行
 blob:https://a2eb1ewtyj.feishu.cn/3d729ea8-73b3-49fb-9fea-821db56bef61
+
 如果出现这种情况
 blob:https://a2eb1ewtyj.feishu.cn/2ade1ba6-8248-4c97-a419-f746a3358382
+
 则点击下图中的load
 blob:https://a2eb1ewtyj.feishu.cn/5639a8ef-ec62-4194-b912-ff1a0d0b83b5
+
 然后点击运行
+
 运行成功后浏览器访问http://localhost:8080/即可。
+
 如果想改变端口
+
 blob:https://a2eb1ewtyj.feishu.cn/94aca80e-1026-4498-9707-9b335db1d7c2
+
 blob:https://a2eb1ewtyj.feishu.cn/bbbcdd05-249c-49ad-a3d3-4772092c646f
+
 blob:https://a2eb1ewtyj.feishu.cn/94587a12-1167-4090-9b89-8ef4aff1e166
+
 直接把8080换成其他的即可
