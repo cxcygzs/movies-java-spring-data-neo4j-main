@@ -17,7 +17,7 @@ maven安装教程及环境配置
 https://blog.csdn.net/Y16692862627/article/details/129727157
 
 idea的配置
-https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/boxcn8ER8Z1aY3xLc8Ca0STIq6g/?fallback_source=1&height=1280&mount_node_token=RAYQdQ6AKoOYmuxARa1cbDgknuc&mount_point=docx_image&policy=equal&width=1280
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/71c87919-57b7-4dd3-8e39-f34242955357)
 
 然后将idea的jdk版本切换
 https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/boxcnkkwuKNkeR0iY1KT1dsIfCb/?fallback_source=1&height=1280&mount_node_token=F8KedsSeuoiWeixMhHzcvHg0nsb&mount_point=docx_image&policy=equal&width=1280
