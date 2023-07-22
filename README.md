@@ -18,22 +18,28 @@ https://blog.csdn.net/Y16692862627/article/details/129727157
 
 idea的配置
 ![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/71c87919-57b7-4dd3-8e39-f34242955357)
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/a1d19d5c-fdb3-4986-a066-032be729b9f0)
 
 然后将idea的jdk版本切换
-https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/boxcnkkwuKNkeR0iY1KT1dsIfCb/?fallback_source=1&height=1280&mount_node_token=F8KedsSeuoiWeixMhHzcvHg0nsb&mount_point=docx_image&policy=equal&width=1280
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/6956f4d6-c960-4e14-b99a-56b8318ace23)
 
-blob:https://a2eb1ewtyj.feishu.cn/92340a07-38b1-436f-a6cc-3328017697c8
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/e0816e4b-2724-498b-8d3b-8a1476bf67a9)
+
 添加完jdk就可运行代码了；
 
 运行代码
-下再次仓库代码按如图所示运行
-blob:https://a2eb1ewtyj.feishu.cn/3d729ea8-73b3-49fb-9fea-821db56bef61
+下载仓库代码按如图所示运行
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/6ae3c13f-7a99-4e4b-ad02-3ee074c0302e)
+
 
 如果出现这种情况
-blob:https://a2eb1ewtyj.feishu.cn/2ade1ba6-8248-4c97-a419-f746a3358382
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/16058e63-5b77-4fc1-bc2b-38af35736613)
+
+
 
 则点击下图中的load
-blob:https://a2eb1ewtyj.feishu.cn/5639a8ef-ec62-4194-b912-ff1a0d0b83b5
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/8de15e17-abdd-4e92-bc0c-03812fea5994)
+
 
 然后点击运行
 
@@ -41,10 +47,11 @@ blob:https://a2eb1ewtyj.feishu.cn/5639a8ef-ec62-4194-b912-ff1a0d0b83b5
 
 如果想改变端口
 
-blob:https://a2eb1ewtyj.feishu.cn/94aca80e-1026-4498-9707-9b335db1d7c2
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/16dd4196-4457-4575-80ad-d79eb230575e)
 
-blob:https://a2eb1ewtyj.feishu.cn/bbbcdd05-249c-49ad-a3d3-4772092c646f
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/c374feb8-45b5-4e8c-90dc-24bb9fe8ce52)
 
-blob:https://a2eb1ewtyj.feishu.cn/94587a12-1167-4090-9b89-8ef4aff1e166
+![image](https://github.com/cxcygzs/movies-java-spring-data-neo4j-main/assets/127217190/654c714e-04f7-4d6d-a5d6-8bcae63015e1)
+
 
 直接把8080换成其他的即可
